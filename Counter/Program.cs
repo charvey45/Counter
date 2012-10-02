@@ -13,6 +13,8 @@ namespace Counter
         private double countednumber;
         int secondspassed = 0;
         int seconds;
+
+        /*Main Proc*/
         static void Main(string[] args)
         {
             Program app = new Program();
